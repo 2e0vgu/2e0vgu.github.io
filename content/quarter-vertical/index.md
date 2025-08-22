@@ -9,6 +9,14 @@ A 1/4 wave vertical antenna with elevated radials for 20m.
 
 I made my very first contact with a VK station from England using one of these antenna. 100 watts and 5/5 both ways around 23:00Z. The next day, i built this antenna for myself from what I had to hand. I do a lot of portable work, so strived for simplicity and lightness. 
 
+This is a resonant antenna for 20m. It's below 1.3 SWR across the band, and due to the elevated radials is very effective. Rule of thumb seems to be that 4 tuned, elevated radials are equivalent to 16 radials of the same length on the ground. In this design, they are also specifically used to guy the mast, making it stable in windy conditions. 
+
+# Other bands
+
+I often add another ~5m of wire to the top of the antenna to make a sloper or inverted L for 40 metres. Typically I'll add 12 ground radials (8 of 5m and 4 of 10m as thats what I already have made up) and it'll be under 1.5 SWR on 40m. 
+
+Future improvements are to make the radials elevated for 40m. 
+
 Diagrams and photos below. 
 
 # Component list
@@ -18,8 +26,8 @@ Diagrams and photos below.
 - 4 x tent pegs
 - SO239 chassis connector
 - Banana plug
-- 2 x crocodle clips
-- Circle of rigid material (plasic, plywood, etc) that you can drill holes in
+- 2 x crocodile clips
+- Circle of rigid material (plastic, plywood, etc) that you can drill holes through
 - 20m of wire for a 20m antenna. I use Sotabeams 1.5mm wire for the low weight. It handles 100 watt SSB no problem.
 
 
