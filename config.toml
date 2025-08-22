@@ -13,11 +13,11 @@ build_search_index = true
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
 
 [extra]
 enable_search = true
-enable_sidebar = false
+enable_sidebar = true
 enable_adsense = false
 enable_multilingue = false
 adsense_link = ""
@@ -27,7 +27,13 @@ title = "2E0VGU"
 items = []
 
 [extra.sidebar]
-items = []
+items = [
+    { lang = "en", links = [
+        { url = "/quarter-vertical", name = "1/4 wave vertical antenna with elevated radials" },
+        { url = "/software", name = "Software for Amateur Radio" },
+        { url = "https://www.qrz.com/db/2E0VGU", name = "My QRZ Page" }
+    ] }
+]
 
 [extra.lang]
 items = []
