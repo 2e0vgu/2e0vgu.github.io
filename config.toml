@@ -8,7 +8,7 @@ theme = "blow"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
 
 [markdown]
 # Whether to do syntax highlighting
@@ -16,16 +16,27 @@ build_search_index = false
 highlight_code = false
 
 [extra]
-# Put all your custom variables here
+enable_search = true
+enable_sidebar = false
+enable_adsense = false
+enable_multilingue = false
+adsense_link = ""
 
 [extra.navbar]
 title = "2E0VGU"
 items = []
 
+[extra.sidebar]
+items = []
+
+[extra.lang]
+items = []
+
+
 [extra.index]
-title = "Main title"
-image = "https://2e0vgu.github.io"
-image_alt = "Stuff"
+title = "2E0VGU radios, antennas etc."
+image = "https://2e0vgu.github.io/images/avatar.jpeg"
+image_alt = ""
 
 [extra.default_author]
 name = "2E0VGU"
