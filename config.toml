@@ -20,3 +20,16 @@ highlight_code = false
 
 [extra.navbar]
 title = "2E0VGU"
+items = []
+
+[extra.index]
+title = "Main title"
+image = "https://2e0vgu.github.io"
+image_alt = "Stuff"
+
+[extra.default_author]
+name = "2E0VGU"
+avatar = "https://2e0vgu.github.io/avatar.jpeg"
+avatar_alt = "The digital version of 2E0VGU"
+
+[languages]
