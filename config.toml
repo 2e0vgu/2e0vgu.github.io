@@ -34,13 +34,23 @@ items = []
 
 
 [extra.index]
-title = "2E0VGU radios, antennas etc."
+title = "2E0VGU - Amateur Radio"
 image = "https://2e0vgu.github.io/images/avatar.jpeg"
 image_alt = ""
+
 
 [extra.default_author]
 name = "2E0VGU"
 avatar = "https://2e0vgu.github.io/images/avatar.jpeg"
 avatar_alt = "The digital version of 2E0VGU"
 
-[languages]
+[extra.social]
+codeberg = ""
+github = ""
+gitlab = ""
+twitter = ""
+mastodon = ""
+linkedin = ""
+stackoverflow = "" 
+telegram = ""
+email = ""

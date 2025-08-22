@@ -3,6 +3,8 @@ title = "1/4 wave vertical antenna with elevated radials"
 date = 2025-08-21
 +++
 
+
+
 A 1/4 wave vertical antenna with elevated radials for 20m.
 
 # Overview
@@ -43,7 +45,9 @@ radials are tied onto normal tent guying nylon and then pegged into the ground
 with tent pegs. This tension supports the mast and keeps the radials nicely
 elevated. 
 
-![Antenna diagram](vertical-side.png "Antenna")
+Click on the image for a larger version:
+
+[![Antenna diagram](vertical-side.png "Antenna")](/quarter-vertical/vertical-side.png)
 
 
 # Photos
