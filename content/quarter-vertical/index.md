@@ -32,7 +32,25 @@ Diagrams and photos below.
 - Circle of rigid material (plastic, plywood, etc) that you can drill holes through
 - 20m of wire for a 20m antenna. I use Sotabeams 1.5mm wire for the low weight. It handles 100 watt SSB no problem.
 
+# Build
 
+The radials are cut to exactly 5m long. They are wrapped / knotted around two holes in the disc to secure them and then sealed with hot glue for strength. Wire length seems to matter more than effective radiating length. Radials are connected (clipped, soldered, screwed) to the outside of the SO239 connector. 
+
+The antenna wire is soldered to the banana plug, which is then plugged into the top side of the SO239 connector. The other end of the antenna wire, solder on a crocodile clip. This is then used to clip the top of the antenna wire to the top of the mast. When extending the antenna to cover 40m, clip another ~5m of wire on to the crocodile clip at the top of the mast. This can then be:
+
+- Pulled into a tree with a throwline to give you a 40m vertical
+- Inverted L using lower branches 
+- A sloper when no other supports are available - attach as long a guy line as you can and gently peg or weight it out as far from the mast as you can. The mast will bend very easily, so minimal tension. 
+
+I've used both the Inverted L and Sloper setup succesfully QRP. 
+
+Extend the radails out, tie on a guy line and peg into the ground. Sensibly taught to guy the mast and keep the radials elevated. Don't tension it too much or you'll stretch the wire.
+
+For 40m, add ground radials, or 4 x 10m elevated radials. Or more, if you can. 
+
+Run 10m+ of coax out so you're not sitting in the nearfield. Only the antenna wire (not the radials) should need trimming for SWR. A 1:1 SWR is achieveable with little effort.
+
+# Diagrams
 
 View from above. The mast is a 5m fishing rod style telescoping pole from Decathlon. The mast fits through the middle of the wooden disc
 and the hole is sized such that the disc rests about at the top of the lowest
