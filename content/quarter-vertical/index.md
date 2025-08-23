@@ -75,8 +75,8 @@ Click on the image for a larger version:
 
 ![Whole Antenna](full.jpeg "Whole Antenna")
 
-![Antenna by the lake](lake.jpeg “Antenna by the lake”)
+![Antenna by the lake](lake.jpeg)
 
-![Antenna by the lake](lake2.jpeg “Antenna by the lake”)
+![Antenna by the lake](lake2.jpeg)
 
-![Antenna by the lake](sky.jpeg “Antenna by the lake”)
+![Antenna by the lake](sky.jpeg)
