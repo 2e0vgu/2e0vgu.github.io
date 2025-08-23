@@ -23,7 +23,8 @@ Diagrams and photos below.
 
 # Component list
 
-- 5m fishing rod pole
+- 5m fishing rod pole - (https://www.decathlon.co.uk/p/lakeside-telescopic-rod-100-6-m/_/R-p-334270?mc=8648725&c=green+olive)
+- Bank Stick - this is the corkscrew tipped pole that suppors the rod mast - (https://www.decathlon.co.uk/p/telescopic-spiral-tipped-bankstick/_/R-p-314208?mc=8396654)
 - 4 x 2m of guy rope
 - 4 x tent pegs
 - SO239 chassis connector
